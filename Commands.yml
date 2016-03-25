@@ -1,0 +1,13 @@
+---
+/f create: true
+/f delete: true
+/f demote: true
+/f desc: true
+/f home: true
+/f info: true
+/f invite: true
+/f kick: true
+/f leader: true
+/f leave: true
+/f promote: true
+...

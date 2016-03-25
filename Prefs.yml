@@ -1,0 +1,36 @@
+---
+MaxFactionNameLength: 20
+MaxPlayersPerFaction: 10
+ClaimingEnabled: true
+FactionNametags: true
+PlotSize: 25
+PlaceSnowBlocksOnClaim: true
+Member:
+  claim: false
+  demote: false
+  home: true
+  invite: false
+  kick: false
+  motd: false
+  promote: false
+  sethome: false
+  unclaim: false
+  unsethome: false
+Officer:
+  claim: true
+  demote: false
+  home: true
+  invite: true
+  kick: true
+  motd: true
+  promote: false
+  sethome: true
+  unclaim: true
+  unsethome: true
+Leader Idenfitier: '**'
+Officer Identifier: '*'
+Factions In Overhead Nametag: true
+Maximum Faction Name Length: 20
+Maximum Players Per Faction: 10
+Developer Mode: false
+...
